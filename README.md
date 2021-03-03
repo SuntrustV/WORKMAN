@@ -6,6 +6,6 @@
   LOG_VIDEO
 баз данных, как SQLite так и PostgreSQL должны быть поля:
 id - Integer
-synchro - varchar (75)
+и synchro - varchar (75)
 
 !!! У всех синхронизируемых таблиц должны быть одинаковые поля !!!
