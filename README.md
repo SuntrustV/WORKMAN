@@ -1,11 +1,11 @@
 # WORKMAN
 Во всех таблицах:<br>
-  LOG_DEVICE_DATA
-  LOG_EVENTS
-  LOG_SPEED_DATA
-  LOG_VIDEO
-баз данных, как SQLite так и PostgreSQL должны быть поля:
-id - Integer
-и synchro - varchar (75)
-
-!!! У всех синхронизируемых таблиц должны быть одинаковые поля !!!
+  LOG_DEVICE_DATA<br>
+  LOG_EVENTS<br>
+  LOG_SPEED_DATA<br>
+  LOG_VIDEO<br>
+баз данных, как SQLite так и PostgreSQL должны быть поля:<br>
+id - Integer<br>
+и synchro - varchar (75)<br>
+<br>
+!!! У всех синхронизируемых таблиц должны быть одинаковые поля !!!<br>
