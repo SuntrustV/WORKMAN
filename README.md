@@ -1,5 +1,5 @@
 # WORKMAN
-Во всех таблицах:
+Во всех таблицах:<br>
   LOG_DEVICE_DATA
   LOG_EVENTS
   LOG_SPEED_DATA
