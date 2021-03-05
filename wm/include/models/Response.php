@@ -44,7 +44,7 @@ class Response
     public static function sendResponse($conn, $error_id, $method_id=0, $message_id=0, $value=''){
 
         global $app;
-        if(!$message_id){ $message_id = rand(1000000000,9999999999);}
+        //if(!$message_id){ $message_id = rand(1000000000,9999999999);}
 
 //echo "\n method--".$method_id."\n";
 //echo " error--".$error_id."\n";
